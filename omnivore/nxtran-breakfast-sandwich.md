@@ -1,6 +1,6 @@
 # nxtran Breakfast Sandwich
   
 ## Ingredients
-+- Bagel
-+- Sausages
+- Bagel
+- Sausages
 ## Directions
