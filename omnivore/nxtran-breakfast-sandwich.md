@@ -1,8 +1,6 @@
 # nxtran Breakfast Sandwich
-
-  . balh
-  . balh
   
 ## Ingredients
-
++- Bagel
++- Sausages
 ## Directions
